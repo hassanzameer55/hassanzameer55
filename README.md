@@ -89,16 +89,7 @@ I interned at the **Pakistan Bureau of Statistics**, where I developed a real-wo
 
 **Tech:** Flutter · Dart · REST APIs  
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanzameer55&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanzameer55&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
 
 ## 🎯 Currently
 
