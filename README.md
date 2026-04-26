@@ -1,47 +1,88 @@
-# Hi there, I'm Hassan Ali 👋 
+<div align="center">
+  
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hassan%20Ali&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20|%20Full%20Stack%20Developer&descSize=25&descAlignY=60" width="100%" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Full--Stack%20Developer-blue?style=flat-square" alt="Role" />
-  <img src="https://img.shields.io/badge/-Mobile%20App%20Developer-green?style=flat-square" alt="Role" />
-  <img src="https://img.shields.io/badge/-AI%20Enthusiast-orange?style=flat-square" alt="Role" />
+  <br/>
+
+  <!-- Intro Typing Effect -->
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Building+Clean+Fast+Applications;Full+Stack+and+Mobile+Specialist;AI+Enthusiast+and+Learner" alt="Typing SVG" />
+  </h3>
+
+  <p align="center">
+    <b>Passionate Software Engineering student at Bahria University, Islamabad.</b><br/>
+    I build scalable web apps, high-performance mobile apps, and intelligent AI tools.
+  </p>
+
+  <!-- Badges -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/hassan-ali-546904288" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:hassanaliofficial55@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://hassan-ali-portfolio-one.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 🚀 Current Focus
+- 🔭 **Working on**: Advanced AI integration in Full-Stack applications.
+- 🌱 **Learning**: Cloud Architecture (AWS/Azure) and Microservices.
+- ⚡ **Fact**: Built over 15+ projects ranging from Mobile Apps to OS File Managers.
+
+---
+
+### 💻 My Technical Arsenal
+
+<div align="center">
+
+| **Frontend** | **Backend** | **Mobile & AI** |
+| :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) |
+| ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) | ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | ![OpenAI](https://img.shields.io/badge/AI%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white) |
+
+<br/>
+
+**Tools & Databases**
+<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### 🏆 Featured Achievements
+- 🎓 **Top Performer**: 6th Semester Software Engineering student.
+- 📦 **15+ Shipped Projects**: From Personal SaaS ideas to University assignments.
+- 🛠️ **Real World Experience**: Shipped production code during PBS Internship.
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hassanzameer55/hassanzameer55/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hassanzameer55&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
-
-I'm a **Software Engineering Student** at Bahria University, Islamabad (6th Semester) and a passionate **Full Stack Developer**. I love building clean, fast, and useful applications that solve real-world problems.
-
----
-
-### 🚀 What I'm working on:
-- 🔭 I’m currently building **AI-powered productivity tools** and **Full-stack E-commerce platforms**.
-- 🌱 I’m currently learning **Advanced System Design** and **Cloud Deployment**.
-- 💼 I previously interned as a **Flutter Developer** at the Pakistan Bureau of Statistics.
-- 💬 Ask me about **React, Flutter, Spring Boot, or Django**.
-
----
-
-### 🛠️ My Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square) ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?logo=fastapi&logoColor=white&style=flat-square) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square) |
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanzameer55&show_icons=true&theme=tokyonight" alt="Hassan's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanzameer55&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
-
----
-
-### 📬 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/hassan-ali-546904288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-ali-546904288" height="30" width="40" /></a>
-<a href="mailto:hassanaliofficial55@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg" alt="email" height="30" width="40" /></a>
-</p>
-
----
-⭐️ *From Pakistan with 💻*
